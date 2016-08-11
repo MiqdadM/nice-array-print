@@ -10,6 +10,11 @@ $data = [
 
 ];
 
-print "<pre>";
+echo 'Perbandingan Print Tanpa Menggunakan Tag &lt pre &gt', "</br></br>";
 print_r($data);
-print '</pre>';
+
+echo '</br></br>';
+echo 'Print Dengan Menggunakan Tag &lt pre &gt';
+echo '<pre>';
+print_r($data);
+echo '</pre>';
