@@ -1,4 +1,5 @@
 # nice-array-print
 
-Berikut Cara Simple Saya Dalam Menampilkan Array Pada Browser Agar Dilihat Lebih Enak
-Hanya Dengan Menggunakan Tag HTML pre
+Berikut Cara Saya Menampilkan Array Pada Browser Agar Lebih Enak Sehingga Lebih Mudah Untuk Diamati
+
+Berikut Hanya Dengan Menggunakan Tag HTML &lt pre &gt
